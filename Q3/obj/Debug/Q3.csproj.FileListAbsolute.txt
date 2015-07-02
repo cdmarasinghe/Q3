@@ -1,0 +1,14 @@
+c:\users\marasinghe\documents\visual studio 2013\Projects\Q3\Q3\bin\Debug\Q3.exe.config
+c:\users\marasinghe\documents\visual studio 2013\Projects\Q3\Q3\bin\Debug\Database1.mdf
+c:\users\marasinghe\documents\visual studio 2013\Projects\Q3\Q3\bin\Debug\Database1_log.ldf
+c:\users\marasinghe\documents\visual studio 2013\Projects\Q3\Q3\bin\Debug\Q3.exe
+c:\users\marasinghe\documents\visual studio 2013\Projects\Q3\Q3\bin\Debug\Q3.pdb
+c:\users\marasinghe\documents\visual studio 2013\Projects\Q3\Q3\obj\Debug\Q3.csprojResolveAssemblyReference.cache
+c:\users\marasinghe\documents\visual studio 2013\Projects\Q3\Q3\obj\Debug\Q3.Form1.resources
+c:\users\marasinghe\documents\visual studio 2013\Projects\Q3\Q3\obj\Debug\Q3.Properties.Resources.resources
+c:\users\marasinghe\documents\visual studio 2013\Projects\Q3\Q3\obj\Debug\Q3.csproj.GenerateResource.Cache
+c:\users\marasinghe\documents\visual studio 2013\Projects\Q3\Q3\obj\Debug\Q3.exe
+c:\users\marasinghe\documents\visual studio 2013\Projects\Q3\Q3\obj\Debug\Q3.pdb
+C:\Users\MARASINGHE\documents\visual studio 2013\Projects\Q3\Q3\obj\Debug\Q3.DBView.resources
+C:\Users\MARASINGHE\documents\visual studio 2013\Projects\Q3\Q3\obj\Debug\Q3.Operations.resources
+C:\Users\MARASINGHE\documents\visual studio 2013\Projects\Q3\Q3\obj\Debug\Q3.FilterView.resources
